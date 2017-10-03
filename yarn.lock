@@ -12,9 +12,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/meteor@1.4.7":
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.7.tgz#f8b610dd8c5167ebf1c0232d6f981458088ca1c7"
+"@types/meteor@1.4.8":
+  version "1.4.8"
+  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.8.tgz#dc25e9c27b9c17f8e38f5304632f328dc2afa8dd"
   dependencies:
     "@types/connect" "*"
 
@@ -23,8 +23,8 @@
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.43.tgz#03c54589c43ad048cbcbfd63999b55d0424eec27"
 
 "@types/node@*":
-  version "8.0.31"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.31.tgz#d9af61093cf4bfc9f066ca34de0175012cfb0ce9"
+  version "8.0.32"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.32.tgz#869a716538b6eec65ab3893f183d557be3cda206"
 
 "@types/underscore@1.8.3":
   version "1.8.3"
@@ -1262,8 +1262,8 @@ test-value@^2.0.0, test-value@^2.1.0:
     typical "^2.6.0"
 
 text-extensions@^1.0.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/text-extensions/-/text-extensions-1.6.0.tgz#771561b26022783a45f5b6c2e78ad6e7de9fe322"
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/text-extensions/-/text-extensions-1.7.0.tgz#faaaba2625ed746d568a23e4d0aacd9bf08a8b39"
 
 through2@^2.0.0, through2@^2.0.2:
   version "2.0.3"
@@ -1304,8 +1304,8 @@ tslint@5.7.0:
     tsutils "^2.8.1"
 
 tsutils@^2.8.1:
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.11.0.tgz#9fb79c3c84a06d13712e9416b922217d6cfe0eea"
+  version "2.11.1"
+  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.11.1.tgz#103dff3fa508aff5649c16dc4e6dd45dc41dbc62"
   dependencies:
     tslib "^1.7.1"
 
