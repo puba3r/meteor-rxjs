@@ -12,9 +12,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/meteor@1.4.8":
-  version "1.4.8"
-  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.8.tgz#dc25e9c27b9c17f8e38f5304632f328dc2afa8dd"
+"@types/meteor@1.4.9":
+  version "1.4.9"
+  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.9.tgz#019d8f02378b1b22154f8a0a2f80b9e1c44b712f"
   dependencies:
     "@types/connect" "*"
 
@@ -23,8 +23,8 @@
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.43.tgz#03c54589c43ad048cbcbfd63999b55d0424eec27"
 
 "@types/node@*":
-  version "8.0.32"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.32.tgz#869a716538b6eec65ab3893f183d557be3cda206"
+  version "8.0.28"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
 
 "@types/underscore@1.8.3":
   version "1.8.3"
@@ -264,9 +264,9 @@ config-master@^3.0.0:
   dependencies:
     walk-back "^2.0.1"
 
-conventional-changelog-angular@^1.0.0, conventional-changelog-angular@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-angular/-/conventional-changelog-angular-1.5.1.tgz#974e73aa1c39c392e4364f2952bd9a62904e9ea3"
+conventional-changelog-angular@^1.0.0, conventional-changelog-angular@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-angular/-/conventional-changelog-angular-1.5.0.tgz#50b2d45008448455fdf67e06ea01972fbd08182a"
   dependencies:
     compare-func "^1.3.1"
     q "^1.4.1"
@@ -299,9 +299,9 @@ conventional-changelog-codemirror@^0.2.0:
   dependencies:
     q "^1.4.1"
 
-conventional-changelog-core@^1.3.0, conventional-changelog-core@^1.9.2:
-  version "1.9.2"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-core/-/conventional-changelog-core-1.9.2.tgz#a09b6b959161671ff45b93cc9efb0444e7c845c0"
+conventional-changelog-core@^1.3.0, conventional-changelog-core@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-core/-/conventional-changelog-core-1.9.1.tgz#ddf767c405850dfc8df31726c80fa1a6a10bdc7b"
   dependencies:
     conventional-changelog-writer "^2.0.1"
     conventional-commits-parser "^2.0.0"
@@ -309,7 +309,7 @@ conventional-changelog-core@^1.3.0, conventional-changelog-core@^1.9.2:
     get-pkg-repo "^1.0.0"
     git-raw-commits "^1.2.0"
     git-remote-origin-url "^2.0.0"
-    git-semver-tags "^1.2.2"
+    git-semver-tags "^1.2.1"
     lodash "^4.0.0"
     normalize-package-data "^2.3.5"
     q "^1.4.1"
@@ -317,9 +317,9 @@ conventional-changelog-core@^1.3.0, conventional-changelog-core@^1.9.2:
     read-pkg-up "^1.0.1"
     through2 "^2.0.0"
 
-conventional-changelog-ember@^0.2.0, conventional-changelog-ember@^0.2.8:
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-ember/-/conventional-changelog-ember-0.2.8.tgz#65e686da83d23b67133d1f853908c87f948035c0"
+conventional-changelog-ember@^0.2.0, conventional-changelog-ember@^0.2.7:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-ember/-/conventional-changelog-ember-0.2.7.tgz#c6aff35976284e7222649f81c62bd96ff3217bd2"
   dependencies:
     q "^1.4.1"
 
@@ -404,14 +404,14 @@ conventional-changelog@1.1.0:
     conventional-changelog-jshint "^0.1.0"
 
 conventional-changelog@^1.1.0:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/conventional-changelog/-/conventional-changelog-1.1.6.tgz#ebd9b1ab63766c715f903f654626b6b1c0da7762"
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/conventional-changelog/-/conventional-changelog-1.1.5.tgz#4c46fb64b2986cab19888d8c4b87ca7c0e431bfd"
   dependencies:
-    conventional-changelog-angular "^1.5.1"
+    conventional-changelog-angular "^1.5.0"
     conventional-changelog-atom "^0.1.1"
     conventional-changelog-codemirror "^0.2.0"
-    conventional-changelog-core "^1.9.2"
-    conventional-changelog-ember "^0.2.8"
+    conventional-changelog-core "^1.9.1"
+    conventional-changelog-ember "^0.2.7"
     conventional-changelog-eslint "^0.2.0"
     conventional-changelog-express "^0.2.0"
     conventional-changelog-jquery "^0.1.0"
@@ -580,9 +580,9 @@ git-remote-origin-url@^2.0.0:
     gitconfiglocal "^1.0.0"
     pify "^2.3.0"
 
-git-semver-tags@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/git-semver-tags/-/git-semver-tags-1.2.2.tgz#a2139be1bf6e337e125f3eb8bb8fc6f5d4d6445f"
+git-semver-tags@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/git-semver-tags/-/git-semver-tags-1.2.1.tgz#6ccd2a52e735b736748dc762444fcd9588e27490"
   dependencies:
     meow "^3.3.0"
     semver "^5.0.1"
@@ -1161,8 +1161,8 @@ spdx-license-ids@^1.0.2:
   resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-1.2.2.tgz#c9df7a3424594ade6bd11900d596696dc06bac57"
 
 split2@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/split2/-/split2-2.2.0.tgz#186b2575bcf83e85b7d18465756238ee4ee42493"
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/split2/-/split2-2.1.1.tgz#7a1f551e176a90ecd3345f7246a0cfe175ef4fd0"
   dependencies:
     through2 "^2.0.2"
 
@@ -1262,8 +1262,8 @@ test-value@^2.0.0, test-value@^2.1.0:
     typical "^2.6.0"
 
 text-extensions@^1.0.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/text-extensions/-/text-extensions-1.7.0.tgz#faaaba2625ed746d568a23e4d0aacd9bf08a8b39"
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/text-extensions/-/text-extensions-1.6.0.tgz#771561b26022783a45f5b6c2e78ad6e7de9fe322"
 
 through2@^2.0.0, through2@^2.0.2:
   version "2.0.3"
@@ -1304,8 +1304,8 @@ tslint@5.7.0:
     tsutils "^2.8.1"
 
 tsutils@^2.8.1:
-  version "2.11.1"
-  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.11.1.tgz#103dff3fa508aff5649c16dc4e6dd45dc41dbc62"
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.8.2.tgz#2c1486ba431260845b0ac6f902afd9d708a8ea6a"
   dependencies:
     tslib "^1.7.1"
 
