@@ -1,6 +1,8 @@
 'use strict';
 
-import { Observable, Subscriber, Subject } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
+import { Subject } from 'rxjs/Subject';
+import { Subscriber } from 'rxjs/Subscriber';
 import { gZone, forkZone, removeObserver } from './utils';
 
 declare let _;

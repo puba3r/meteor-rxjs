@@ -9,7 +9,8 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { Observable, Subject } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
+import { Subject } from 'rxjs/Subject';
 import { gZone, forkZone, removeObserver } from './utils';
 var ObservableCursor = /** @class */ (function (_super) {
     __extends(ObservableCursor, _super);

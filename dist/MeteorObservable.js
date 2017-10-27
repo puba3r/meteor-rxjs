@@ -1,5 +1,7 @@
 'use strict';
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
+import { Subject } from 'rxjs/Subject';
+import { Subscriber } from 'rxjs/Subscriber';
 import { isMeteorCallbacks, forkZone, removeObserver } from './utils';
 function throwInvalidCallback(method) {
     throw new Error("Invalid " + method + " arguments:\n     your last param can't be a callback function,\n     please remove it and use \".subscribe\" of the Observable!");
